@@ -1,7 +1,3 @@
-# Fine-Tuning Gemma to Generate Synthetic Insurance and Clinical Records
-
-An experimental project exploring whether a small instruction-tuned Gemma model can learn the structure, statistical characteristics, value ranges, and distributions of real-world datasets and generate new, structurally valid synthetic records.
-
 ## 1. Project Overview
 
 The objective of this project was to fine-tune a small Gemma language model to generate synthetic data that resembles the characteristics of its training datasets.
