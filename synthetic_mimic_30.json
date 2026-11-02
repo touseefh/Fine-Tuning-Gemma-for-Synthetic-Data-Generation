@@ -1,0 +1,3344 @@
+[
+  {
+    "gender": "M",
+    "age": 69,
+    "race": "WHITE",
+    "insurance": "Medicare",
+    "language": "ENGLISH",
+    "marital_status": "MARRIED",
+    "admission_type": "ELECTIVE",
+    "admission_location": "PHYSICIAN REFERRAL",
+    "discharge_location": "HOME HEALTH CARE",
+    "los_days": 16.9,
+    "died_in_hospital": 0,
+    "icu": null,
+    "num_diagnoses": 32,
+    "num_procedures": 0,
+    "num_medications": 30,
+    "diagnoses": [
+      {
+        "icd_code": "18622",
+        "icd_version": 9,
+        "title": "Chronic kidney disease, stage 5 or end stage, unspecified"
+      },
+      {
+        "icd_code": "2761",
+        "icd_version": 9,
+        "title": "Hypernatremia"
+      },
+      {
+        "icd_code": "28549",
+        "icd_version": 9,
+        "title": "Obesity, unspecified"
+      },
+      {
+        "icd_code": "2769",
+        "icd_version": 9,
+        "title": "Pure hyperlipidemia"
+      },
+      {
+        "icd_code": "2762",
+        "icd_version": 9,
+        "title": "Mixed hyperlipidemia"
+      }
+    ],
+    "procedures": [],
+    "labs": [
+      {
+        "test": "Chloride",
+        "value": 100.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Platelet Count",
+        "value": 315.0,
+        "unit": "K/uL",
+        "flag": "normal"
+      },
+      {
+        "test": "Glucose",
+        "value": 255.0,
+        "unit": "mg/dL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Bicarbonate",
+        "value": 24.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "MCHC",
+        "value": 33.2,
+        "unit": "g/dL",
+        "flag": "normal"
+      },
+      {
+        "test": "Red Blood Cells",
+        "value": 3.56,
+        "unit": "m/uL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Magnesium",
+        "value": 2.1,
+        "unit": "mg/dL",
+        "flag": "normal"
+      },
+      {
+        "test": "PT",
+        "value": 13.9,
+        "unit": "sec",
+        "flag": "normal"
+      }
+    ],
+    "medications": [
+      "Aspirin",
+      "Ciprofloxacin",
+      "Dextrose 50%",
+      "Insulin",
+      "Lactated Ringers",
+      "OxycoDONE (Oxaliplatin)"
+    ]
+  },
+  {
+    "gender": "M",
+    "age": 64,
+    "race": "WHITE",
+    "insurance": "Other",
+    "language": "ENGLISH",
+    "marital_status": "SINGLE",
+    "admission_type": "EW EMER.",
+    "admission_location": "EMERGENCY ROOM",
+    "discharge_location": "HOME HEALTH CARE",
+    "los_days": 10.7,
+    "died_in_hospital": 0,
+    "icu": null,
+    "num_diagnoses": 23,
+    "num_procedures": 0,
+    "num_medications": 43,
+    "diagnoses": [
+      {
+        "icd_code": "K7000",
+        "icd_version": 10,
+        "title": "Malignant neoplasm of head and neck, unspecified site"
+      },
+      {
+        "icd_code": "Z87891",
+        "icd_version": 10,
+        "title": "Personal history of other malignant neoplasm of head and neck"
+      },
+      {
+        "icd_code": "R34",
+        "icd_version": 10,
+        "title": "Acute kidney failure"
+      },
+      {
+        "icd_code": "I120",
+        "icd_version": 10,
+        "title": "Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease"
+      },
+      {
+        "icd_code": "E785",
+        "icd_version": 10,
+        "title": "Hyperlipidemia, unspecified"
+      }
+    ],
+    "procedures": [],
+    "labs": [
+      {
+        "test": "Sodium",
+        "value": 139.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Creatinine",
+        "value": 1.4,
+        "unit": "mg/dL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Urea Nitrogen",
+        "value": 38.0,
+        "unit": "mg/dL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Hematocrit",
+        "value": 29.8,
+        "unit": "%",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Glucose",
+        "value": 106.0,
+        "unit": "mg/dL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "RDW",
+        "value": 15.6,
+        "unit": "%",
+        "flag": "abnormal"
+      },
+      {
+        "test": "MCH",
+        "value": 28.0,
+        "unit": "pg",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Phosphate",
+        "value": 3.6,
+        "unit": "mg/dL",
+        "flag": "normal"
+      }
+    ],
+    "medications": [
+      "Dextrose 50%",
+      "Heparin",
+      "Insulin",
+      "Lisinopril",
+      "Potassium Chloride",
+      "Sodium Chloride 0.9%  Flush"
+    ]
+  },
+  {
+    "gender": "F",
+    "age": 65,
+    "race": "WHITE",
+    "insurance": "Other",
+    "language": "ENGLISH",
+    "marital_status": "WIDOWED",
+    "admission_type": "EW EMER.",
+    "admission_location": "EMERGENCY ROOM",
+    "discharge_location": "HOME HEALTH CARE",
+    "los_days": 12.3,
+    "died_in_hospital": 0,
+    "icu": {
+      "first_careunit": "Medical Intensive Care Unit (MICU)",
+      "last_careunit": "Medical Intensive Care Unit (MICU)",
+      "icu_los_days": 4.7
+    },
+    "num_diagnoses": 22,
+    "num_procedures": 6,
+    "num_medications": 45,
+    "diagnoses": [
+      {
+        "icd_code": "4244",
+        "icd_version": 9,
+        "title": "Acute on chronic systolic heart failure"
+      },
+      {
+        "icd_code": "25000",
+        "icd_version": 9,
+        "title": "Hyperlipidemia, unspecified"
+      },
+      {
+        "icd_code": "42731",
+        "icd_version": 9,
+        "title": "Other diastolic (congestive) heart failure"
+      },
+      {
+        "icd_code": "4272",
+        "icd_version": 9,
+        "title": "Other diastolic (congestive) heart failure"
+      },
+      {
+        "icd_code": "2762",
+        "icd_version": 9,
+        "title": "Severe protein-calorie malnutrition"
+      }
+    ],
+    "procedures": [
+      {
+        "icd_code": "3664",
+        "icd_version": 9,
+        "title": "(Extracorporeal) cardiac massage"
+      },
+      {
+        "icd_code": "3653",
+        "icd_version": 9,
+        "title": "Percutaneous cardiac catheterization"
+      }
+    ],
+    "labs": [
+      {
+        "test": "Sodium",
+        "value": 142.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Creatinine",
+        "value": 0.6,
+        "unit": "mg/dL",
+        "flag": "normal"
+      },
+      {
+        "test": "Potassium",
+        "value": 4.2,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Urea Nitrogen",
+        "value": 12.0,
+        "unit": "mg/dL",
+        "flag": "normal"
+      },
+      {
+        "test": "MCH",
+        "value": 27.0,
+        "unit": "pg",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Red Blood Cells",
+        "value": 4.02,
+        "unit": "m/uL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "MCV",
+        "value": 97.0,
+        "unit": "fL",
+        "flag": "normal"
+      },
+      {
+        "test": "Phosphate",
+        "value": 2.8,
+        "unit": "mg/dL",
+        "flag": "normal"
+      }
+    ],
+    "medications": [
+      "Acetaminophen",
+      "Aspirin",
+      "Glucose Gel",
+      "OxycoDONE (Immediate Release)",
+      "Potassium Chloride",
+      "Senna"
+    ]
+  },
+  {
+    "gender": "F",
+    "age": 74,
+    "race": "WHITE",
+    "insurance": "Other",
+    "language": "ENGLISH",
+    "marital_status": "WIDOWED",
+    "admission_type": "EW EMER.",
+    "admission_location": "EMERGENCY ROOM",
+    "discharge_location": "HOME",
+    "los_days": 1.8,
+    "died_in_hospital": 0,
+    "icu": null,
+    "num_diagnoses": 16,
+    "num_procedures": 0,
+    "num_medications": 18,
+    "diagnoses": [
+      {
+        "icd_code": "I69359",
+        "icd_version": 10,
+        "title": "Altered mental status, unspecified"
+      },
+      {
+        "icd_code": "I110",
+        "icd_version": 10,
+        "title": "Type 2 diabetes mellitus with foot ulcer"
+      },
+      {
+        "icd_code": "I824",
+        "icd_version": 10,
+        "title": "Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease"
+      },
+      {
+        "icd_code": "I2510",
+        "icd_version": 10,
+        "title": "Atherosclerotic heart disease of native coronary artery without angina pectoris"
+      },
+      {
+        "icd_code": "E785",
+        "icd_version": 10,
+        "title": "Chronic kidney disease, unspecified"
+      }
+    ],
+    "procedures": [],
+    "labs": [
+      {
+        "test": "Chloride",
+        "value": 95.0,
+        "unit": "mEq/L",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Potassium",
+        "value": 5.1,
+        "unit": "mEq/L",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Urea Nitrogen",
+        "value": 16.0,
+        "unit": "mg/dL",
+        "flag": "normal"
+      },
+      {
+        "test": "Glucose",
+        "value": 303.0,
+        "unit": "mg/dL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Anion Gap",
+        "value": 17.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "MCHC",
+        "value": 32.3,
+        "unit": "%",
+        "flag": "normal"
+      },
+      {
+        "test": "MCH",
+        "value": 32.2,
+        "unit": "pg",
+        "flag": "normal"
+      },
+      {
+        "test": "Red Blood Cells",
+        "value": 2.95,
+        "unit": "m/uL",
+        "flag": "abnormal"
+      }
+    ],
+    "medications": [
+      "Acetaminophen",
+      "Insulin",
+      "Lactated Ringers",
+      "OxycoDONE",
+      "Senna",
+      "Warfarin"
+    ]
+  },
+  {
+    "gender": "F",
+    "age": 63,
+    "race": "WHITE",
+    "insurance": "Other",
+    "language": "ENGLISH",
+    "marital_status": "DIVORCED",
+    "admission_type": "EW EMER.",
+    "admission_location": "EMERGENCY ROOM",
+    "discharge_location": "HOME",
+    "los_days": 2.6,
+    "died_in_hospital": 0,
+    "icu": null,
+    "num_diagnoses": 14,
+    "num_procedures": 0,
+    "num_medications": 27,
+    "diagnoses": [
+      {
+        "icd_code": "R30",
+        "icd_version": 10,
+        "title": "Chronic respiratory failure"
+      },
+      {
+        "icd_code": "R570",
+        "icd_version": 10,
+        "title": "Other pleural effusion"
+      },
+      {
+        "icd_code": "R5189",
+        "icd_version": 10,
+        "title": "Other and unspecified acute respiratory failure"
+      },
+      {
+        "icd_code": "D689",
+        "icd_version": 10,
+        "title": "Ankylosing spondylitis, unspecified"
+      },
+      {
+        "icd_code": "I5033",
+        "icd_version": 10,
+        "title": "Acute on chronic diastolic (congestive) heart failure"
+      }
+    ],
+    "procedures": [],
+    "labs": [
+      {
+        "test": "Sodium",
+        "value": 138.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Urea Nitrogen",
+        "value": 10.0,
+        "unit": "mg/dL",
+        "flag": "normal"
+      },
+      {
+        "test": "Hemoglobin",
+        "value": 11.3,
+        "unit": "g/dL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "MCH",
+        "value": 32.2,
+        "unit": "pg",
+        "flag": "normal"
+      },
+      {
+        "test": "MCV",
+        "value": 94.0,
+        "unit": "fL",
+        "flag": "normal"
+      },
+      {
+        "test": "Red Blood Cells",
+        "value": 3.47,
+        "unit": "m/uL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "White Blood Cells",
+        "value": 7.1,
+        "unit": "K/uL",
+        "flag": "normal"
+      },
+      {
+        "test": "Calcium, Total",
+        "value": 9.2,
+        "unit": "mg/dL",
+        "flag": "normal"
+      }
+    ],
+    "medications": [
+      "Aspirin",
+      "Acetaminophen",
+      "Glucagon",
+      "HYDROmorphone (Dilaudid)",
+      "Lorazepam",
+      "Sodium Chloride 0.9%",
+      "Sodium Chloride 0.9%  Flush"
+    ]
+  },
+  {
+    "gender": "F",
+    "age": 66,
+    "race": "WHITE",
+    "insurance": "Medicare",
+    "language": "ENGLISH",
+    "marital_status": "WIDOWED",
+    "admission_type": "EW EMER.",
+    "admission_location": "EMERGENCY ROOM",
+    "discharge_location": "HOME",
+    "los_days": 6.1,
+    "died_in_hospital": 0,
+    "icu": null,
+    "num_diagnoses": 26,
+    "num_procedures": 0,
+    "num_medications": 32,
+    "diagnoses": [
+      {
+        "icd_code": "K7030",
+        "icd_version": 10,
+        "title": "Acute pancreatitis, unspecified whether or not having reached necrosis"
+      },
+      {
+        "icd_code": "N179",
+        "icd_version": 10,
+        "title": "Acute kidney failure, unspecified"
+      },
+      {
+        "icd_code": "J9600",
+        "icd_version": 10,
+        "title": "Acute respiratory failure with hypoxia"
+      },
+      {
+        "icd_code": "I5033",
+        "icd_version": 10,
+        "title": "Acute on chronic diastolic (congestive) heart failure"
+      },
+      {
+        "icd_code": "E870",
+        "icd_version": 10,
+        "title": "Hyperlipidemia, unspecified"
+      }
+    ],
+    "procedures": [],
+    "labs": [
+      {
+        "test": "Sodium",
+        "value": 140.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Chloride",
+        "value": 98.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Platelet Count",
+        "value": 231.0,
+        "unit": "K/uL",
+        "flag": "normal"
+      },
+      {
+        "test": "Glucose",
+        "value": 105.0,
+        "unit": "mg/dL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "RDW",
+        "value": 14.2,
+        "unit": "%",
+        "flag": "normal"
+      },
+      {
+        "test": "MCV",
+        "value": 98.0,
+        "unit": "fL",
+        "flag": "normal"
+      },
+      {
+        "test": "White Blood Cells",
+        "value": 10.2,
+        "unit": "K/uL",
+        "flag": "normal"
+      },
+      {
+        "test": "Calcium, Total",
+        "value": 8.4,
+        "unit": "mg/dL",
+        "flag": "normal"
+      }
+    ],
+    "medications": [
+      "Bag",
+      "Iso-Osmotic Dextrose",
+      "Lactated Ringers",
+      "Lorazepam",
+      "Ondansetron",
+      "Potassium Chloride"
+    ]
+  },
+  {
+    "gender": "M",
+    "age": 66,
+    "race": "WHITE",
+    "insurance": "Other",
+    "language": "ENGLISH",
+    "marital_status": "MARRIED",
+    "admission_type": "EW EMER.",
+    "admission_location": "EMERGENCY ROOM",
+    "discharge_location": "HOME",
+    "los_days": 1.1,
+    "died_in_hospital": 0,
+    "icu": {
+      "first_careunit": "Trauma SICU (TSICU)",
+      "last_careunit": "Trauma SICU (TSICU)",
+      "icu_los_days": 0.7
+    },
+    "num_diagnoses": 8,
+    "num_procedures": 1,
+    "num_medications": 17,
+    "diagnoses": [
+      {
+        "icd_code": "99811",
+        "icd_version": 9,
+        "title": "Cerebral hemorrhage, unspecified"
+      },
+      {
+        "icd_code": "99599",
+        "icd_version": 9,
+        "title": "Long-term (current) use of antineoplastic agents"
+      },
+      {
+        "icd_code": "4270",
+        "icd_version": 9,
+        "title": "Cyst of pancreas"
+      },
+      {
+        "icd_code": "V4084",
+        "icd_version": 9,
+        "title": "Accidental fall with injury to head, not elsewhere classified"
+      },
+      {
+        "icd_code": "2760",
+        "icd_version": 9,
+        "title": "Other or unspecified infection of spine"
+      }
+    ],
+    "procedures": [
+      {
+        "icd_code": "5A1D80Z",
+        "icd_version": 9,
+        "title": "Extirpation of Intracranial Tissue, Percutaneous Approach"
+      },
+      {
+        "icd_code": "3A1D3ZZ",
+        "icd_version": 9,
+        "title": "Other Drainage of Spinal Cavity, Percutaneous Approach"
+      }
+    ],
+    "labs": [
+      {
+        "test": "Chloride",
+        "value": 101.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Potassium",
+        "value": 4.6,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Anion Gap",
+        "value": 13.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Hemoglobin",
+        "value": 12.7,
+        "unit": "g/dL",
+        "flag": "normal"
+      },
+      {
+        "test": "MCHC",
+        "value": 33.0,
+        "unit": "%",
+        "flag": "normal"
+      },
+      {
+        "test": "MCV",
+        "value": 92.0,
+        "unit": "fL",
+        "flag": "normal"
+      },
+      {
+        "test": "Red Blood Cells",
+        "value": 3.38,
+        "unit": "m/uL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Calcium, Total",
+        "value": 9.0,
+        "unit": "mg/dL",
+        "flag": "normal"
+      }
+    ],
+    "medications": [
+      "Aspirin",
+      "Furosemide",
+      "Influenza Virus Vaccine",
+      "Ipratropium-Albuterol Neb",
+      "Sodium Chloride 0.9%  Flush"
+    ]
+  },
+  {
+    "gender": "M",
+    "age": 62,
+    "race": "WHITE",
+    "insurance": "Other",
+    "language": "ENGLISH",
+    "marital_status": "MARRIED",
+    "admission_type": "EW EMER.",
+    "admission_location": "EMERGENCY ROOM",
+    "discharge_location": "HOME HEALTH CARE",
+    "los_days": 2.5,
+    "died_in_hospital": 0,
+    "icu": null,
+    "num_diagnoses": 10,
+    "num_procedures": 0,
+    "num_medications": 21,
+    "diagnoses": [
+      {
+        "icd_code": "3483",
+        "icd_version": 9,
+        "title": "Multiple myeloma, without mention of having achieved remission"
+      },
+      {
+        "icd_code": "4019",
+        "icd_version": 9,
+        "title": "Unspecified pancytopenia"
+      },
+      {
+        "icd_code": "5188",
+        "icd_version": 9,
+        "title": "Other or unspecified anemia"
+      },
+      {
+        "icd_code": "V5871",
+        "icd_version": 9,
+        "title": "Body temperature 100-103 degrees Fahrenheit"
+      },
+      {
+        "icd_code": "V0022",
+        "icd_version": 9,
+        "title": "Personal history of smoking"
+      }
+    ],
+    "procedures": [],
+    "labs": [
+      {
+        "test": "Creatinine",
+        "value": 0.7,
+        "unit": "mg/dL",
+        "flag": "normal"
+      },
+      {
+        "test": "Chloride",
+        "value": 100.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Potassium",
+        "value": 4.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Hematocrit",
+        "value": 35.1,
+        "unit": "%",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Anion Gap",
+        "value": 15.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "MCV",
+        "value": 89.0,
+        "unit": "fL",
+        "flag": "normal"
+      },
+      {
+        "test": "PT",
+        "value": 11.8,
+        "unit": "sec",
+        "flag": "normal"
+      },
+      {
+        "test": "Bilirubin, Total",
+        "value": 0.3,
+        "unit": "mg/dL",
+        "flag": "normal"
+      }
+    ],
+    "medications": [
+      "Aspirin",
+      "Ciprofloxacin",
+      "Lidocaine 1%",
+      "Morphine Sulfate",
+      "OxycoDONE (Immediate Release)",
+      "Sodium Chloride 0.9%",
+      "Warfarin"
+    ]
+  },
+  {
+    "gender": "M",
+    "age": 67,
+    "race": "WHITE",
+    "insurance": "Other",
+    "language": "ENGLISH",
+    "marital_status": "MARRIED",
+    "admission_type": "EW EMER.",
+    "admission_location": "EMERGENCY ROOM",
+    "discharge_location": "HOME HEALTH CARE",
+    "los_days": 12.1,
+    "died_in_hospital": 0,
+    "icu": {
+      "first_careunit": "Cardiac Vascular Intensive Care Unit (CVICU)",
+      "last_careunit": "Cardiac Vascular Intensive Care Unit (CVICU)",
+      "icu_los_days": 2.7
+    },
+    "num_diagnoses": 13,
+    "num_procedures": 4,
+    "num_medications": 44,
+    "diagnoses": [
+      {
+        "icd_code": "5849",
+        "icd_version": 9,
+        "title": "Other pancytopenia"
+      },
+      {
+        "icd_code": "5842",
+        "icd_version": 9,
+        "title": "Thrombocytopenia"
+      },
+      {
+        "icd_code": "58419",
+        "icd_version": 9,
+        "title": "Other specific disorders of hematopoiesis"
+      },
+      {
+        "icd_code": "5189",
+        "icd_version": 9,
+        "title": "Unspecified essential hypertension"
+      },
+      {
+        "icd_code": "5841",
+        "icd_version": 9,
+        "title": "Anemia, unspecified"
+      },
+      {
+        "icd_code": "51500",
+        "icd_version": 9,
+        "title": "Chronic diastolic (congestive) heart failure"
+      }
+    ],
+    "procedures": [
+      {
+        "icd_code": "3751",
+        "icd_version": 9,
+        "title": "Excision of tissue from left heart, open approach"
+      },
+      {
+        "icd_code": "3758",
+        "icd_version": 9,
+        "title": "Excision of tissue from right heart, open approach"
+      },
+      {
+        "icd_code": "3752",
+        "icd_version": 9,
+        "title": "Replacement of valve with tissue, open approach"
+      }
+    ],
+    "labs": [
+      {
+        "test": "Potassium",
+        "value": 4.1,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Urea Nitrogen",
+        "value": 12.0,
+        "unit": "mg/dL",
+        "flag": "normal"
+      },
+      {
+        "test": "Platelet Count",
+        "value": 133.0,
+        "unit": "K/uL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "MCHC",
+        "value": 32.1,
+        "unit": "g/dL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Red Blood Cells",
+        "value": 2.72,
+        "unit": "m/uL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "White Blood Cells",
+        "value": 5.1,
+        "unit": "K/uL",
+        "flag": "normal"
+      },
+      {
+        "test": "Magnesium",
+        "value": 1.9,
+        "unit": "mg/dL",
+        "flag": "normal"
+      },
+      {
+        "test": "PT",
+        "value": 12.7,
+        "unit": "sec",
+        "flag": "normal"
+      }
+    ],
+    "medications": [
+      "Dextrose 50%",
+      "Heparin",
+      "Influenza Virus Vaccine",
+      "Insulin",
+      "Levothyroxine Sodium",
+      "Potassium Chloride"
+    ]
+  },
+  {
+    "gender": "M",
+    "age": 65,
+    "race": "WHITE",
+    "insurance": "Other",
+    "language": "ENGLISH",
+    "marital_status": "MARRIED",
+    "admission_type": "EW EMER.",
+    "admission_location": "EMERGENCY ROOM",
+    "discharge_location": "HOME",
+    "los_days": 5.8,
+    "died_in_hospital": 0,
+    "icu": null,
+    "num_diagnoses": 12,
+    "num_procedures": 0,
+    "num_medications": 25,
+    "diagnoses": [
+      {
+        "icd_code": "41401",
+        "icd_version": 9,
+        "title": "Intracranial cerebral hemorrhage, initial encounter"
+      },
+      {
+        "icd_code": "41481",
+        "icd_version": 9,
+        "title": "Intracerebral hemorrhage, cerebral veins and sinuses"
+      },
+      {
+        "icd_code": "41411",
+        "icd_version": 9,
+        "title": "Hemorrhage of right middle cerebral artery"
+      },
+      {
+        "icd_code": "41412",
+        "icd_version": 9,
+        "title": "Hemorrhage of left middle cerebral artery"
+      },
+      {
+        "icd_code": "41482",
+        "icd_version": 9,
+        "title": "Intracerebral hemorrhage, other locations"
+      },
+      {
+        "icd_code": "3051",
+        "icd_version": 9,
+        "title": "Alkalosis"
+      }
+    ],
+    "procedures": [],
+    "labs": [
+      {
+        "test": "Chloride",
+        "value": 96.0,
+        "unit": "mEq/L",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Urea Nitrogen",
+        "value": 15.0,
+        "unit": "mg/dL",
+        "flag": "normal"
+      },
+      {
+        "test": "Platelet Count",
+        "value": 256.0,
+        "unit": "K/uL",
+        "flag": "normal"
+      },
+      {
+        "test": "RDW",
+        "value": 14.8,
+        "unit": "%",
+        "flag": "normal"
+      },
+      {
+        "test": "MCH",
+        "value": 26.0,
+        "unit": "pg",
+        "flag": "normal"
+      },
+      {
+        "test": "MCV",
+        "value": 98.0,
+        "unit": "fL",
+        "flag": "normal"
+      },
+      {
+        "test": "Phosphate",
+        "value": 3.5,
+        "unit": "mg/dL",
+        "flag": "normal"
+      },
+      {
+        "test": "Calcium, Total",
+        "value": 8.7,
+        "unit": "mg/dL",
+        "flag": "abnormal"
+      }
+    ],
+    "medications": [
+      "Acetaminophen",
+      "Ciprofloxacin HCl",
+      "Dextrose 50%",
+      "Furosemide",
+      "HYDROmorphone",
+      "OxyCODONE (Immediate Release)"
+    ]
+  },
+  {
+    "gender": "M",
+    "age": 52,
+    "race": "WHITE",
+    "insurance": "Other",
+    "language": "ENGLISH",
+    "marital_status": "SINGLE",
+    "admission_type": "EW EMER.",
+    "admission_location": "EMERGENCY ROOM",
+    "discharge_location": "HOME HEALTH CARE",
+    "los_days": 1.8,
+    "died_in_hospital": 0,
+    "icu": {
+      "first_careunit": "Medical Intensive Care Unit (MICU)",
+      "last_careunit": "Medical Intensive Care Unit (MICU)",
+      "icu_los_days": 0.6
+    },
+    "num_diagnoses": 13,
+    "num_procedures": 0,
+    "num_medications": 26,
+    "diagnoses": [
+      {
+        "icd_code": "J9601",
+        "icd_version": 10,
+        "title": "Acute respiratory failure with hypoxia"
+      },
+      {
+        "icd_code": "J9100",
+        "icd_version": 10,
+        "title": "Acute respiratory failure with hypoxia, unspecified"
+      },
+      {
+        "icd_code": "J9601",
+        "icd_version": 10,
+        "title": "Acute respiratory failure with hypoxia"
+      },
+      {
+        "icd_code": "J9600",
+        "icd_version": 10,
+        "title": "Acute respiratory failure"
+      },
+      {
+        "icd_code": "N179",
+        "icd_version": 10,
+        "title": "Acute kidney failure, unspecified"
+      }
+    ],
+    "procedures": [],
+    "labs": [
+      {
+        "test": "Urea Nitrogen",
+        "value": 28.0,
+        "unit": "mg/dL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Platelet Count",
+        "value": 134.0,
+        "unit": "K/uL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Hematocrit",
+        "value": 23.9,
+        "unit": "%",
+        "flag": "abnormal"
+      },
+      {
+        "test": "RDW",
+        "value": 17.6,
+        "unit": "%",
+        "flag": "abnormal"
+      },
+      {
+        "test": "MCH",
+        "value": 31.4,
+        "unit": "pg",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Phosphate",
+        "value": 3.3,
+        "unit": "mg/dL",
+        "flag": "normal"
+      },
+      {
+        "test": "Calcium, Total",
+        "value": 8.5,
+        "unit": "mg/dL",
+        "flag": "normal"
+      },
+      {
+        "test": "PTT",
+        "value": 28.0,
+        "unit": "sec",
+        "flag": "abnormal"
+      }
+    ],
+    "medications": [
+      "Albuterol 0.083% Neb",
+      "Insulin",
+      "Neutra-Phos (0.9% Sodium Chloride)",
+      "Senna",
+      "Sodium Chloride 0.9%  Flush",
+      "Sodium Chloride 0.9%  Flush"
+    ]
+  },
+  {
+    "gender": "F",
+    "age": 81,
+    "race": "WHITE",
+    "insurance": "Other",
+    "language": "ENGLISH",
+    "marital_status": "WIDOWED",
+    "admission_type": "EW EMER.",
+    "admission_location": "EMERGENCY ROOM",
+    "discharge_location": "HOME",
+    "los_days": 1.9,
+    "died_in_hospital": 0,
+    "icu": {
+      "first_careunit": "Medical/Surgical Intensive Care Unit (MICU/SICU)",
+      "last_careunit": "Medical/Surgical Intensive Care Unit (MICU/SICU)",
+      "icu_los_days": 0.6
+    },
+    "num_diagnoses": 13,
+    "num_procedures": 0,
+    "num_medications": 25,
+    "diagnoses": [
+      {
+        "icd_code": "R340",
+        "icd_version": 10,
+        "title": "Sepsis, unspecified organism"
+      },
+      {
+        "icd_code": "I272",
+        "icd_version": 10,
+        "title": "Other and unspecified infective endocarditis"
+      },
+      {
+        "icd_code": "N170",
+        "icd_version": 10,
+        "title": "Acute kidney failure with tubular necrosis"
+      },
+      {
+        "icd_code": "E872",
+        "icd_version": 10,
+        "title": "Hypovolemic shock"
+      },
+      {
+        "icd_code": "N183",
+        "icd_version": 10,
+        "title": "Chronic lymphocytic leukemia of B-cell type not having achieved remission"
+      },
+      {
+        "icd_code": "E874",
+        "icd_version": 10,
+        "title": "Hypotension, unspecified"
+      }
+    ],
+    "procedures": [],
+    "labs": [
+      {
+        "test": "Chloride",
+        "value": 108.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Potassium",
+        "value": 4.1,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Urea Nitrogen",
+        "value": 15.0,
+        "unit": "mg/dL",
+        "flag": "normal"
+      },
+      {
+        "test": "Hematocrit",
+        "value": 32.5,
+        "unit": "%",
+        "flag": "abnormal"
+      },
+      {
+        "test": "MCH",
+        "value": 31.5,
+        "unit": "pg",
+        "flag": "abnormal"
+      },
+      {
+        "test": "MCHC",
+        "value": 33.3,
+        "unit": "%",
+        "flag": "normal"
+      },
+      {
+        "test": "Calcium, Total",
+        "value": 8.8,
+        "unit": "mg/dL",
+        "flag": "normal"
+      },
+      {
+        "test": "Phosphate",
+        "value": 4.2,
+        "unit": "mg/dL",
+        "flag": "normal"
+      }
+    ],
+    "medications": [
+      "0.9% Sodium Chloride",
+      "Docusate Sodium",
+      "HydrALAZINE",
+      "Lactated Ringers",
+      "Metoprolol Succinate XL",
+      "Vancomycin"
+    ]
+  },
+  {
+    "gender": "F",
+    "age": 40,
+    "race": "BLACK/AFRICAN AMERICAN",
+    "insurance": "Other",
+    "language": "ENGLISH",
+    "marital_status": "SINGLE",
+    "admission_type": "EW EMER.",
+    "admission_location": "EMERGENCY ROOM",
+    "discharge_location": "HOME",
+    "los_days": 5.8,
+    "died_in_hospital": 0,
+    "icu": null,
+    "num_diagnoses": 13,
+    "num_procedures": 1,
+    "num_medications": 22,
+    "diagnoses": [
+      {
+        "icd_code": "J9602",
+        "icd_version": 10,
+        "title": "Acute respiratory failure with hypoxia"
+      },
+      {
+        "icd_code": "I226",
+        "icd_version": 10,
+        "title": "Pneumonitis due to inhalation of food and vomit"
+      },
+      {
+        "icd_code": "J910",
+        "icd_version": 10,
+        "title": "Acute respiratory failure with hypoxia, unspecified whether with hypoxia or hypercapnia"
+      },
+      {
+        "icd_code": "E870",
+        "icd_version": 10,
+        "title": "Hyperlipidemia, unspecified"
+      },
+      {
+        "icd_code": "E1122",
+        "icd_version": 10,
+        "title": "Type 2 diabetes mellitus with foot ulcer"
+      }
+    ],
+    "procedures": [
+      {
+        "icd_code": "5A1D0ZZ",
+        "icd_version": 10,
+        "title": "Insertion of Endotracheal Airway into Trachea, Via Natural or Artificial Opening Endoscopic"
+      },
+      {
+        "icd_code": "5A2D0ZZ",
+        "icd_version": 10,
+        "title": "Insertion of Endotracheal Airway into Trachea, Via Natural or Artificial Opening Percutaneous Approach"
+      }
+    ],
+    "labs": [
+      {
+        "test": "Urea Nitrogen",
+        "value": 14.0,
+        "unit": "mg/dL",
+        "flag": "normal"
+      },
+      {
+        "test": "Platelet Count",
+        "value": 329.0,
+        "unit": "K/uL",
+        "flag": "normal"
+      },
+      {
+        "test": "Glucose",
+        "value": 176.0,
+        "unit": "mg/dL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Hemoglobin",
+        "value": 10.4,
+        "unit": "g/dL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "RDW",
+        "value": 16.2,
+        "unit": "%",
+        "flag": "abnormal"
+      },
+      {
+        "test": "MCH",
+        "value": 34.5,
+        "unit": "pg",
+        "flag": "abnormal"
+      },
+      {
+        "test": "White Blood Cells",
+        "value": 10.9,
+        "unit": "K/uL",
+        "flag": "normal"
+      },
+      {
+        "test": "Phosphate",
+        "value": 3.9,
+        "unit": "mg/dL",
+        "flag": "normal"
+      }
+    ],
+    "medications": [
+      "Acetaminophen",
+      "Albuterol 0.083% Neb",
+      "Heparin",
+      "Iso-Osmotic Dextrose",
+      "Potassium Chloride",
+      "Sodium Chloride 0.9%  Flush"
+    ]
+  },
+  {
+    "gender": "F",
+    "age": 68,
+    "race": "BLACK/AFRICAN AMERICAN",
+    "insurance": "Other",
+    "language": "ENGLISH",
+    "marital_status": "WIDOWED",
+    "admission_type": "EW EMER.",
+    "admission_location": "EMERGENCY ROOM",
+    "discharge_location": "HOME",
+    "los_days": 1.4,
+    "died_in_hospital": 0,
+    "icu": {
+      "first_careunit": "Medical/Surgical Intensive Care Unit (MICU/SICU)",
+      "last_careunit": "Medical/Surgical Intensive Care Unit (MICU/SICU)",
+      "icu_los_days": 0.8
+    },
+    "num_diagnoses": 14,
+    "num_procedures": 2,
+    "num_medications": 24,
+    "diagnoses": [
+      {
+        "icd_code": "03822",
+        "icd_version": 9,
+        "title": "Acute respiratory failure"
+      },
+      {
+        "icd_code": "0383",
+        "icd_version": 9,
+        "title": "Sepsis"
+      },
+      {
+        "icd_code": "5849",
+        "icd_version": 9,
+        "title": "Acute kidney failure, unspecified"
+      },
+      {
+        "icd_code": "5990",
+        "icd_version": 9,
+        "title": "Urinary tract infection, site not specified"
+      },
+      {
+        "icd_code": "5849",
+        "icd_version": 9,
+        "title": "Chronic kidney disease, stage 5 or end stage (ESRD)"
+      }
+    ],
+    "procedures": [
+      {
+        "icd_code": "3891",
+        "icd_version": 9,
+        "title": "Continuous invasive mechanical ventilation for less than 96 consecutive hours"
+      },
+      {
+        "icd_code": "3899",
+        "icd_version": 9,
+        "title": "Other continuous invasive mechanical ventilation"
+      },
+      {
+        "icd_code": "3893",
+        "icd_version": 9,
+        "title": "Other invasive mechanical ventilation for 96 consecutive hours or more"
+      },
+      {
+        "icd_code": "9662",
+        "icd_version": 9,
+        "title": "Introduction of infusion, continuous, less than 24 hours duration"
+      }
+    ],
+    "labs": [
+      {
+        "test": "Potassium",
+        "value": 5.4,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Chloride",
+        "value": 108.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Urea Nitrogen",
+        "value": 36.0,
+        "unit": "mg/dL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Hematocrit",
+        "value": 33.3,
+        "unit": "%",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Bicarbonate",
+        "value": 28.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "MCHC",
+        "value": 33.0,
+        "unit": "%",
+        "flag": "normal"
+      },
+      {
+        "test": "White Blood Cells",
+        "value": 3.9,
+        "unit": "K/uL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "INR(PT)",
+        "value": 1.3,
+        "unit": null,
+        "flag": "abnormal"
+      }
+    ],
+    "medications": [
+      "Aspirin",
+      "Acetaminophen",
+      "Dextrose 50%",
+      "Heparin",
+      "Nephrocaps",
+      "Potassium Chloride"
+    ]
+  },
+  {
+    "gender": "M",
+    "age": 73,
+    "race": "WHITE",
+    "insurance": "Medicare",
+    "language": "ENGLISH",
+    "marital_status": "MARRIED",
+    "admission_type": "EW EMER.",
+    "admission_location": "EMERGENCY ROOM",
+    "discharge_location": "SKILLED NURSING FACILITY",
+    "los_days": 15.2,
+    "died_in_hospital": 0,
+    "icu": null,
+    "num_diagnoses": 36,
+    "num_procedures": 3,
+    "num_medications": 67,
+    "diagnoses": [
+      {
+        "icd_code": "I25110",
+        "icd_version": 10,
+        "title": "Atherosclerotic heart disease of native coronary artery with unstable angina pectoris"
+      },
+      {
+        "icd_code": "I214",
+        "icd_version": 10,
+        "title": "Nonrheumatic periprocedural (postprocedural) pericarditis"
+      },
+      {
+        "icd_code": "R213",
+        "icd_version": 10,
+        "title": "Other and unspecified atrial fibrillation"
+      },
+      {
+        "icd_code": "N170",
+        "icd_version": 10,
+        "title": "Chronic lymphocytic leukemia of B-cell type not having achieved remission"
+      },
+      {
+        "icd_code": "Z959",
+        "icd_version": 10,
+        "title": "Presence of hospice care"
+      }
+    ],
+    "procedures": [
+      {
+        "icd_code": "0293",
+        "icd_version": 10,
+        "title": "Percutaneous transluminal coronary angioplasty [PTCA]"
+      }
+    ],
+    "labs": [
+      {
+        "test": "Creatinine",
+        "value": 1.3,
+        "unit": "mg/dL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Chloride",
+        "value": 100.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Potassium",
+        "value": 3.9,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Urea Nitrogen",
+        "value": 14.0,
+        "unit": "mg/dL",
+        "flag": "normal"
+      },
+      {
+        "test": "RDW",
+        "value": 12.4,
+        "unit": "%",
+        "flag": "normal"
+      },
+      {
+        "test": "MCHC",
+        "value": 34.0,
+        "unit": "%",
+        "flag": "normal"
+      },
+      {
+        "test": "Phosphate",
+        "value": 3.2,
+        "unit": "mg/dL",
+        "flag": "normal"
+      },
+      {
+        "test": "PT",
+        "value": 12.3,
+        "unit": "sec",
+        "flag": "abnormal"
+      }
+    ],
+    "medications": [
+      "Aspirin",
+      "Docusate Sodium",
+      "Lisinopril",
+      "Potassium Chloride",
+      "Sodium Chloride 0.9%  Flush",
+      "Simethicone"
+    ]
+  },
+  {
+    "gender": "M",
+    "age": 55,
+    "race": "WHITE",
+    "insurance": "Other",
+    "language": "ENGLISH",
+    "marital_status": "MARRIED",
+    "admission_type": "EW EMER.",
+    "admission_location": "EMERGENCY ROOM",
+    "discharge_location": "HOME",
+    "los_days": 10.1,
+    "died_in_hospital": 0,
+    "icu": null,
+    "num_diagnoses": 27,
+    "num_procedures": 3,
+    "num_medications": 43,
+    "diagnoses": [
+      {
+        "icd_code": "K7030",
+        "icd_version": 10,
+        "title": "Acute pancreatitis, unspecified with necrosis or gangrene"
+      },
+      {
+        "icd_code": "K7038",
+        "icd_version": 10,
+        "title": "Other acute pancreatitis"
+      },
+      {
+        "icd_code": "J9601",
+        "icd_version": 10,
+        "title": "Acute respiratory failure with hypoxia"
+      },
+      {
+        "icd_code": "J9600",
+        "icd_version": 10,
+        "title": "Acute respiratory failure, unspecified"
+      },
+      {
+        "icd_code": "E883",
+        "icd_version": 10,
+        "title": "Tumor lysis syndrome"
+      }
+    ],
+    "procedures": [
+      {
+        "icd_code": "0W9D30Z",
+        "icd_version": 10,
+        "title": "Drainage of Pancreatic Duct with Drainage Device, Percutaneous Approach"
+      },
+      {
+        "icd_code": "0W9D34Z",
+        "icd_version": 10,
+        "title": "Drainage of Pancreatic Duct with Drainage Device, Percutaneous Approach"
+      }
+    ],
+    "labs": [
+      {
+        "test": "Creatinine",
+        "value": 0.6,
+        "unit": "mg/dL",
+        "flag": "normal"
+      },
+      {
+        "test": "Potassium",
+        "value": 4.5,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Anion Gap",
+        "value": 17.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Bicarbonate",
+        "value": 25.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "MCH",
+        "value": 32.0,
+        "unit": "pg",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Red Blood Cells",
+        "value": 3.61,
+        "unit": "m/uL",
+        "flag": "normal"
+      },
+      {
+        "test": "PT",
+        "value": 13.0,
+        "unit": "sec",
+        "flag": "normal"
+      },
+      {
+        "test": "Bilirubin, Total",
+        "value": 0.3,
+        "unit": "mg/dL",
+        "flag": "normal"
+      }
+    ],
+    "medications": [
+      "Dextrose 50%",
+      "Lactated Ringers",
+      "Potassium Chloride",
+      "Simethicone",
+      "Sodium Chloride 0.9%  Flush",
+      "Sulfameth/Trimethoprim DS"
+    ]
+  },
+  {
+    "gender": "F",
+    "age": 64,
+    "race": "WHITE",
+    "insurance": "Other",
+    "language": "ENGLISH",
+    "marital_status": "WIDOWED",
+    "admission_type": "OBSERVATION ADMIT",
+    "admission_location": "EMERGENCY ROOM",
+    "discharge_location": "HOME HEALTH CARE",
+    "los_days": 4.7,
+    "died_in_hospital": 0,
+    "icu": null,
+    "num_diagnoses": 11,
+    "num_procedures": 0,
+    "num_medications": 17,
+    "diagnoses": [
+      {
+        "icd_code": "K7030",
+        "icd_version": 10,
+        "title": "Respiratory failure, unspecified whether with hypoxia or hypercapnia"
+      },
+      {
+        "icd_code": "N179",
+        "icd_version": 10,
+        "title": "Acute kidney failure, unspecified"
+      },
+      {
+        "icd_code": "N183",
+        "icd_version": 10,
+        "title": "End stage renal disease"
+      },
+      {
+        "icd_code": "I421",
+        "icd_version": 10,
+        "title": "Chronic diastolic (congestive) heart failure"
+      },
+      {
+        "icd_code": "E1122",
+        "icd_version": 10,
+        "title": "Type 2 diabetes mellitus with diabetic chronic kidney disease"
+      }
+    ],
+    "procedures": [],
+    "labs": [
+      {
+        "test": "Sodium",
+        "value": 137.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Potassium",
+        "value": 4.2,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Urea Nitrogen",
+        "value": 25.0,
+        "unit": "mg/dL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Glucose",
+        "value": 102.0,
+        "unit": "mg/dL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Anion Gap",
+        "value": 14.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "MCHC",
+        "value": 32.7,
+        "unit": "%",
+        "flag": "abnormal"
+      },
+      {
+        "test": "MCV",
+        "value": 83.0,
+        "unit": "fL",
+        "flag": "normal"
+      },
+      {
+        "test": "Red Blood Cells",
+        "value": 4.12,
+        "unit": "m/uL",
+        "flag": "abnormal"
+      }
+    ],
+    "medications": [
+      "Aspirin",
+      "Docusate Sodium",
+      "Ezetimibe",
+      "Famotidine",
+      "Magnesium Sulfate",
+      "Metoprolol Tartrate",
+      "Phosphorus",
+      "Potassium Chloride"
+    ]
+  },
+  {
+    "gender": "F",
+    "age": 66,
+    "race": "BLACK/AFRICAN AMERICAN",
+    "insurance": "Other",
+    "language": "ENGLISH",
+    "marital_status": "SINGLE",
+    "admission_type": "OBSERVATION ADMIT",
+    "admission_location": "PHYSICIAN REFERRAL",
+    "discharge_location": "HOME HEALTH CARE",
+    "los_days": 11.7,
+    "died_in_hospital": 0,
+    "icu": null,
+    "num_diagnoses": 14,
+    "num_procedures": 1,
+    "num_medications": 37,
+    "diagnoses": [
+      {
+        "icd_code": "R652",
+        "icd_version": 10,
+        "title": "Other pain"
+      },
+      {
+        "icd_code": "R2321",
+        "icd_version": 10,
+        "title": "Pain in right foot"
+      },
+      {
+        "icd_code": "I8112",
+        "icd_version": 10,
+        "title": "Secondary osteoarthritis, left hip"
+      },
+      {
+        "icd_code": "E883",
+        "icd_version": 10,
+        "title": "Hypotension, unspecified"
+      },
+      {
+        "icd_code": "R34",
+        "icd_version": 10,
+        "title": "Back pain"
+      }
+    ],
+    "procedures": [
+      {
+        "icd_code": "0RG78DZ",
+        "icd_version": 10,
+        "title": "Other other examinations and tests on right foot, except X-ray"
+      },
+      {
+        "icd_code": "0DJD3ZZ",
+        "icd_version": 10,
+        "title": "Insertion of single drug into femoral vein, with guidance"
+      },
+      {
+        "icd_code": "0DJJ3ZZ",
+        "icd_version": 10,
+        "title": "Insertion of single drug into femoral vein, with guidance"
+      }
+    ],
+    "labs": [
+      {
+        "test": "Sodium",
+        "value": 140.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Potassium",
+        "value": 4.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Glucose",
+        "value": 106.0,
+        "unit": "mg/dL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Anion Gap",
+        "value": 11.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Bicarbonate",
+        "value": 24.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "MCH",
+        "value": 30.1,
+        "unit": "pg",
+        "flag": "normal"
+      },
+      {
+        "test": "Red Blood Cells",
+        "value": 3.53,
+        "unit": "m/uL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "White Blood Cells",
+        "value": 5.7,
+        "unit": "K/uL",
+        "flag": "normal"
+      }
+    ],
+    "medications": [
+      "Heparin",
+      "Glucose Gel",
+      "Ondansetron",
+      "Sodium Chloride 0.9%  Flush",
+      "Sodium Chloride 0.9%  Flush"
+    ]
+  },
+  {
+    "gender": "M",
+    "age": 68,
+    "race": "WHITE",
+    "insurance": "Other",
+    "language": "ENGLISH",
+    "marital_status": "MARRIED",
+    "admission_type": "EW EMER.",
+    "admission_location": "EMERGENCY ROOM",
+    "discharge_location": "HOME",
+    "los_days": 3.7,
+    "died_in_hospital": 0,
+    "icu": null,
+    "num_diagnoses": 13,
+    "num_procedures": 1,
+    "num_medications": 23,
+    "diagnoses": [
+      {
+        "icd_code": "J9601",
+        "icd_version": 10,
+        "title": "Acute respiratory failure with hypoxia"
+      },
+      {
+        "icd_code": "I5033",
+        "icd_version": 10,
+        "title": "Acute on chronic diastolic (congestive) heart failure"
+      },
+      {
+        "icd_code": "E1122",
+        "icd_version": 10,
+        "title": "Type 2 diabetes mellitus with diabetic chronic kidney disease"
+      },
+      {
+        "icd_code": "I4891",
+        "icd_version": 10,
+        "title": "Paroxysmal atrial fibrillation"
+      },
+      {
+        "icd_code": "I120",
+        "icd_version": 10,
+        "title": "Hypertensive heart disease with heart failure"
+      }
+    ],
+    "procedures": [
+      {
+        "icd_code": "03HV33Z",
+        "icd_version": 10,
+        "title": "Insertion of Enteral Infusion Device into Small Intestine, Percutaneous Approach"
+      }
+    ],
+    "labs": [
+      {
+        "test": "Sodium",
+        "value": 142.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Creatinine",
+        "value": 1.6,
+        "unit": "mg/dL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Chloride",
+        "value": 103.0,
+        "unit": "mEq/L",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Potassium",
+        "value": 3.9,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "RDW",
+        "value": 14.6,
+        "unit": "%",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Phosphate",
+        "value": 2.9,
+        "unit": "mg/dL",
+        "flag": "normal"
+      },
+      {
+        "test": "INR(PT)",
+        "value": 1.3,
+        "unit": null,
+        "flag": "abnormal"
+      },
+      {
+        "test": "Bilirubin, Total",
+        "value": 0.5,
+        "unit": "mg/dL",
+        "flag": "normal"
+      }
+    ],
+    "medications": [
+      "Glucagon",
+      "Iso-Osmotic Dextrose",
+      "Iso-Osmotic Dextrose",
+      "Potassium Chloride",
+      "PNEUMOcoccal 23-valent polysaccharide vaccine",
+      "Sodium Chloride 0.9%  Flush"
+    ]
+  },
+  {
+    "gender": "M",
+    "age": 58,
+    "race": "WHITE",
+    "insurance": "Other",
+    "language": "ENGLISH",
+    "marital_status": "MARRIED",
+    "admission_type": "EW EMER.",
+    "admission_location": "EMERGENCY ROOM",
+    "discharge_location": "HOME",
+    "los_days": 5.9,
+    "died_in_hospital": 0,
+    "icu": {
+      "first_careunit": "Medical/Surgical Intensive Care Unit (MICU/SICU)",
+      "last_careunit": "Medical/Surgical Intensive Care Unit (MICU/SICU)",
+      "icu_los_days": 1.8
+    },
+    "num_diagnoses": 24,
+    "num_procedures": 5,
+    "num_medications": 55,
+    "diagnoses": [
+      {
+        "icd_code": "34831",
+        "icd_version": 9,
+        "title": "Pneumonia, unspecified organism"
+      },
+      {
+        "icd_code": "4019",
+        "icd_version": 9,
+        "title": "Acute kidney failure, unspecified"
+      },
+      {
+        "icd_code": "5849",
+        "icd_version": 9,
+        "title": "Chronic lymphocytic leukemia of B-cell type not having achieved remission"
+      },
+      {
+        "icd_code": "5990",
+        "icd_version": 9,
+        "title": "Urinary tract infection, site not specified"
+      },
+      {
+        "icd_code": "2720",
+        "icd_version": 9,
+        "title": "Multiple sclerosis"
+      }
+    ],
+    "procedures": [
+      {
+        "icd_code": "3023",
+        "icd_version": 9,
+        "title": "Respiratory Ventilation, Greater than 96 Consecutive Hours"
+      },
+      {
+        "icd_code": "3791",
+        "icd_version": 9,
+        "title": "Insertion of Endotracheal Airway into Trachea"
+      },
+      {
+        "icd_code": "3899",
+        "icd_version": 9,
+        "title": "Other Continuous Invasive Mechanical Ventilation"
+      }
+    ],
+    "labs": [
+      {
+        "test": "Creatinine",
+        "value": 0.7,
+        "unit": "mg/dL",
+        "flag": "normal"
+      },
+      {
+        "test": "Urea Nitrogen",
+        "value": 13.0,
+        "unit": "mg/dL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Hematocrit",
+        "value": 33.8,
+        "unit": "%",
+        "flag": "abnormal"
+      },
+      {
+        "test": "MCHC",
+        "value": 30.1,
+        "unit": "g/dL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Red Blood Cells",
+        "value": 3.23,
+        "unit": "m/uL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Phosphate",
+        "value": 4.1,
+        "unit": "mg/dL",
+        "flag": "normal"
+      },
+      {
+        "test": "PT",
+        "value": 13.5,
+        "unit": "sec",
+        "flag": "normal"
+      },
+      {
+        "test": "Bilirubin, Total",
+        "value": 0.3,
+        "unit": "mg/dL",
+        "flag": "normal"
+      }
+    ],
+    "medications": [
+      "0.9% Sodium Chloride",
+      "0.45% Sodium Chloride",
+      "Docusate Sodium",
+      "Famotidine",
+      "Sodium Chloride 0.9%  Flush",
+      "Senna"
+    ]
+  },
+  {
+    "gender": "M",
+    "age": 66,
+    "race": "WHITE",
+    "insurance": "Medicare",
+    "language": "ENGLISH",
+    "marital_status": "MARRIED",
+    "admission_type": "DIRECT EMER.",
+    "admission_location": "PHYSICIAN REFERRAL",
+    "discharge_location": "HOME",
+    "los_days": 2.0,
+    "died_in_hospital": 0,
+    "icu": {
+      "first_careunit": "Cardiac Vascular Intensive Care Unit (CVICU)",
+      "last_careunit": "Cardiac Vascular Intensive Care Unit (CVICU)",
+      "icu_los_days": 1.9
+    },
+    "num_diagnoses": 13,
+    "num_procedures": 1,
+    "num_medications": 26,
+    "diagnoses": [
+      {
+        "icd_code": "I25110",
+        "icd_version": 10,
+        "title": "Atherosclerotic heart disease of native coronary artery with unstable angina pectoris"
+      },
+      {
+        "icd_code": "I428",
+        "icd_version": 10,
+        "title": "Other myocardial infarction"
+      },
+      {
+        "icd_code": "I5023",
+        "icd_version": 10,
+        "title": "Acute on chronic diastolic (congestive) heart failure"
+      },
+      {
+        "icd_code": "E872",
+        "icd_version": 10,
+        "title": "Hypovolemia, unspecified"
+      },
+      {
+        "icd_code": "R570",
+        "icd_version": 10,
+        "title": "Suicidal ideation"
+      }
+    ],
+    "procedures": [
+      {
+        "icd_code": "03HV33Z",
+        "icd_version": 10,
+        "title": "Insertion of Intravascular Device into Left Main Coronary Artery with Guidance"
+      },
+      {
+        "icd_code": "3E2336Z",
+        "icd_version": 10,
+        "title": "Insertion of Left Upper Femoral Artery Percutaneous Approach"
+      }
+    ],
+    "labs": [
+      {
+        "test": "Chloride",
+        "value": 102.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Potassium",
+        "value": 4.2,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Urea Nitrogen",
+        "value": 18.0,
+        "unit": "mg/dL",
+        "flag": "normal"
+      },
+      {
+        "test": "Hematocrit",
+        "value": 27.8,
+        "unit": "%",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Anion Gap",
+        "value": 15.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Calcium, Total",
+        "value": 8.7,
+        "unit": "mg/dL",
+        "flag": "normal"
+      },
+      {
+        "test": "PT",
+        "value": 14.6,
+        "unit": "sec",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Asparate Aminotransferase (AST)",
+        "value": 29.0,
+        "unit": "IU/L",
+        "flag": "normal"
+      }
+    ],
+    "medications": [
+      "0.9% Sodium Chloride",
+      "Glucagon",
+      "Insulin",
+      "Potassium Chloride",
+      "Sodium Chloride 0.9%  Flush",
+      "Sodium Chloride 0.9%  Flush"
+    ]
+  },
+  {
+    "gender": "F",
+    "age": 54,
+    "race": "WHITE",
+    "insurance": "Other",
+    "language": "ENGLISH",
+    "marital_status": "DIVORCED",
+    "admission_type": "OBSERVATION ADMIT",
+    "admission_location": "EMERGENCY ROOM",
+    "discharge_location": "HOME",
+    "los_days": 3.8,
+    "died_in_hospital": 0,
+    "icu": null,
+    "num_diagnoses": 13,
+    "num_procedures": 0,
+    "num_medications": 12,
+    "diagnoses": [
+      {
+        "icd_code": "5849",
+        "icd_version": 9,
+        "title": "Other postprocedural disorders of right hip"
+      },
+      {
+        "icd_code": "V1281",
+        "icd_version": 9,
+        "title": "Personal history of other diseases of male and female attention"
+      },
+      {
+        "icd_code": "V08",
+        "icd_version": 9,
+        "title": "Asymptomatic human immunodeficiency virus [HIV] infection status"
+      },
+      {
+        "icd_code": "V085",
+        "icd_version": 9,
+        "title": "Other and unspecified human immunodeficiency virus [HIV] infection status"
+      },
+      {
+        "icd_code": "E871",
+        "icd_version": 9,
+        "title": "Toxic multinuclear gout"
+      }
+    ],
+    "procedures": [],
+    "labs": [
+      {
+        "test": "Sodium",
+        "value": 137.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Potassium",
+        "value": 3.9,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Urea Nitrogen",
+        "value": 13.0,
+        "unit": "mg/dL",
+        "flag": "normal"
+      },
+      {
+        "test": "Platelet Count",
+        "value": 246.0,
+        "unit": "K/uL",
+        "flag": "normal"
+      },
+      {
+        "test": "Bilirubin, Total",
+        "value": 0.3,
+        "unit": "mg/dL",
+        "flag": "normal"
+      },
+      {
+        "test": "Asparate Aminotransferase (AST)",
+        "value": 35.0,
+        "unit": "IU/L",
+        "flag": "normal"
+      }
+    ],
+    "medications": [
+      "Acetaminophen",
+      "Atorvastatin",
+      "Levothyroxine Sodium",
+      "Metoprolol Tartrate",
+      "Sodium Chloride 0.9%  Flush",
+      "Warfarin"
+    ]
+  },
+  {
+    "gender": "M",
+    "age": 68,
+    "race": "WHITE",
+    "insurance": "Other",
+    "language": "ENGLISH",
+    "marital_status": "SINGLE",
+    "admission_type": "OBSERVATION ADMIT",
+    "admission_location": "EMERGENCY ROOM",
+    "discharge_location": "HOME",
+    "los_days": 3.9,
+    "died_in_hospital": 0,
+    "icu": {
+      "first_careunit": "Medical Intensive Care Unit (MICU)",
+      "last_careunit": "Medical Intensive Care Unit (MICU)",
+      "icu_los_days": 1.6
+    },
+    "num_diagnoses": 14,
+    "num_procedures": 1,
+    "num_medications": 21,
+    "diagnoses": [
+      {
+        "icd_code": "E785",
+        "icd_version": 10,
+        "title": "Acute respiratory failure with hypoxia"
+      },
+      {
+        "icd_code": "R6521",
+        "icd_version": 10,
+        "title": "Acute on chronic systolic (congestive) heart failure"
+      },
+      {
+        "icd_code": "E871",
+        "icd_version": 10,
+        "title": "Hypoxemia"
+      },
+      {
+        "icd_code": "R1231",
+        "icd_version": 10,
+        "title": "Other non-ST elevation (NSTEMI) myocardial infarction, initial episode of care"
+      },
+      {
+        "icd_code": "I428",
+        "icd_version": 10,
+        "title": "Paroxysmal atrial fibrillation"
+      }
+    ],
+    "procedures": [
+      {
+        "icd_code": "0591",
+        "icd_version": 10,
+        "title": "Closed intermittent tracheal ventilation"
+      }
+    ],
+    "labs": [
+      {
+        "test": "Sodium",
+        "value": 138.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Chloride",
+        "value": 104.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Potassium",
+        "value": 4.4,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Urea Nitrogen",
+        "value": 13.0,
+        "unit": "mg/dL",
+        "flag": "normal"
+      },
+      {
+        "test": "Hemoglobin",
+        "value": 12.0,
+        "unit": "g/dL",
+        "flag": "normal"
+      },
+      {
+        "test": "Red Blood Cells",
+        "value": 3.91,
+        "unit": "m/uL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Calcium, Total",
+        "value": 9.5,
+        "unit": "mg/dL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "PT",
+        "value": 10.5,
+        "unit": "sec",
+        "flag": "abnormal"
+      }
+    ],
+    "medications": [
+      "Aspirin",
+      "Bag",
+      "Influenza Virus Vaccine",
+      "Magnesium Sulfate",
+      "Sodium Chloride 0.9%  Flush"
+    ]
+  },
+  {
+    "gender": "F",
+    "age": 58,
+    "race": "BLACK/AFRICAN AMERICAN",
+    "insurance": "Other",
+    "language": "ENGLISH",
+    "marital_status": "SINGLE",
+    "admission_type": "EW EMER.",
+    "admission_location": "EMERGENCY ROOM",
+    "discharge_location": "HOME HEALTH CARE",
+    "los_days": 3.5,
+    "died_in_hospital": 0,
+    "icu": {
+      "first_careunit": "Cardiac Vascular Intensive Care Unit (CVICU)",
+      "last_careunit": "Cardiac Vascular Intensive Care Unit (CVICU)",
+      "icu_los_days": 0.7
+    },
+    "num_diagnoses": 10,
+    "num_procedures": 1,
+    "num_medications": 18,
+    "diagnoses": [
+      {
+        "icd_code": "0383",
+        "icd_version": 9,
+        "title": "Aorto-coronary occlusion, initial episode of care"
+      },
+      {
+        "icd_code": "41401",
+        "icd_version": 9,
+        "title": "Acute kidney failure, unspecified"
+      },
+      {
+        "icd_code": "25000",
+        "icd_version": 9,
+        "title": "Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+      },
+      {
+        "icd_code": "2761",
+        "icd_version": 9,
+        "title": "Unspecified hyperlipidemia"
+      },
+      {
+        "icd_code": "5849",
+        "icd_version": 9,
+        "title": "Other pancytopenia"
+      }
+    ],
+    "procedures": [
+      {
+        "icd_code": "9614",
+        "icd_version": 9,
+        "title": "Open and other aneurysm repair"
+      },
+      {
+        "icd_code": "9607",
+        "icd_version": 9,
+        "title": "Other open right heart bypass"
+      },
+      {
+        "icd_code": "9617",
+        "icd_version": 9,
+        "title": "Other open left heart bypass"
+      }
+    ],
+    "labs": [
+      {
+        "test": "Potassium",
+        "value": 4.6,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Urea Nitrogen",
+        "value": 23.0,
+        "unit": "mg/dL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Glucose",
+        "value": 124.0,
+        "unit": "mg/dL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Hemoglobin",
+        "value": 11.4,
+        "unit": "g/dL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "MCHC",
+        "value": 30.4,
+        "unit": "%",
+        "flag": "abnormal"
+      },
+      {
+        "test": "MCV",
+        "value": 93.0,
+        "unit": "fL",
+        "flag": "normal"
+      },
+      {
+        "test": "Red Blood Cells",
+        "value": 2.62,
+        "unit": "m/uL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Phosphate",
+        "value": 4.3,
+        "unit": "mg/dL",
+        "flag": "normal"
+      }
+    ],
+    "medications": [
+      "Bisacodyl",
+      "Insulin",
+      "Metoprolol Succinate XL",
+      "Pantoprazole",
+      "Senna",
+      "Tamsulosin"
+    ]
+  },
+  {
+    "gender": "F",
+    "age": 68,
+    "race": "WHITE",
+    "insurance": "Medicare",
+    "language": "ENGLISH",
+    "marital_status": "WIDOWED",
+    "admission_type": "EW EMER.",
+    "admission_location": "EMERGENCY ROOM",
+    "discharge_location": "HOME",
+    "los_days": 5.1,
+    "died_in_hospital": 0,
+    "icu": null,
+    "num_diagnoses": 12,
+    "num_procedures": 0,
+    "num_medications": 25,
+    "diagnoses": [
+      {
+        "icd_code": "0086",
+        "icd_version": 9,
+        "title": "Suicidal ideation"
+      },
+      {
+        "icd_code": "5849",
+        "icd_version": 9,
+        "title": "Urinary tract infection, site not specified"
+      },
+      {
+        "icd_code": "41401",
+        "icd_version": 9,
+        "title": "Acute pancreatitis"
+      },
+      {
+        "icd_code": "V6091",
+        "icd_version": 9,
+        "title": "Suicidal behavior"
+      },
+      {
+        "icd_code": "0380",
+        "icd_version": 9,
+        "title": "Unspecified hypothyroidism"
+      }
+    ],
+    "procedures": [],
+    "labs": [
+      {
+        "test": "Sodium",
+        "value": 140.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Urea Nitrogen",
+        "value": 13.0,
+        "unit": "mg/dL",
+        "flag": "normal"
+      },
+      {
+        "test": "Platelet Count",
+        "value": 235.0,
+        "unit": "K/uL",
+        "flag": "normal"
+      },
+      {
+        "test": "Glucose",
+        "value": 144.0,
+        "unit": "mg/dL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Hemoglobin",
+        "value": 11.4,
+        "unit": "g/dL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "MCHC",
+        "value": 32.6,
+        "unit": "%",
+        "flag": "normal"
+      },
+      {
+        "test": "MCV",
+        "value": 92.0,
+        "unit": "fL",
+        "flag": "normal"
+      },
+      {
+        "test": "PT",
+        "value": 14.3,
+        "unit": "sec",
+        "flag": "normal"
+      }
+    ],
+    "medications": [
+      "0.9% Sodium Chloride",
+      "Clonazepam",
+      "Heparin Flush",
+      "Insulin",
+      "MetFORmin",
+      "OxyCODone"
+    ]
+  },
+  {
+    "gender": "M",
+    "age": 58,
+    "race": "WHITE",
+    "insurance": "Other",
+    "language": "ENGLISH",
+    "marital_status": "MARRIED",
+    "admission_type": "EW EMER.",
+    "admission_location": "EMERGENCY ROOM",
+    "discharge_location": "SKILLED NURSING FACILITY",
+    "los_days": 4.1,
+    "died_in_hospital": 0,
+    "icu": {
+      "first_careunit": "Medical/Surgical Intensive Care Unit (MICU/SICU)",
+      "last_careunit": "Medical/Surgical Intensive Care Unit (MICU/SICU)",
+      "icu_los_days": 1.3
+    },
+    "num_diagnoses": 17,
+    "num_procedures": 6,
+    "num_medications": 57,
+    "diagnoses": [
+      {
+        "icd_code": "42833",
+        "icd_version": 9,
+        "title": "Chronic lymphocytic leukemia, in remission"
+      },
+      {
+        "icd_code": "34831",
+        "icd_version": 9,
+        "title": "Ulcer of other part of intestine"
+      },
+      {
+        "icd_code": "42731",
+        "icd_version": 9,
+        "title": "Malignant neoplasm of stomach"
+      },
+      {
+        "icd_code": "3480",
+        "icd_version": 9,
+        "title": "Acute appendicitis"
+      },
+      {
+        "icd_code": "29500",
+        "icd_version": 9,
+        "title": "Unspecified essential hypertension"
+      }
+    ],
+    "procedures": [
+      {
+        "icd_code": "4511",
+        "icd_version": 9,
+        "title": "Excision of lesion of pancreas"
+      },
+      {
+        "icd_code": "3471",
+        "icd_version": 9,
+        "title": "Endoscopic removal of lesion of stomach"
+      }
+    ],
+    "labs": [
+      {
+        "test": "Sodium",
+        "value": 136.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Potassium",
+        "value": 4.1,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Anion Gap",
+        "value": 15.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Hemoglobin",
+        "value": 11.5,
+        "unit": "g/dL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "RDW",
+        "value": 16.5,
+        "unit": "%",
+        "flag": "abnormal"
+      },
+      {
+        "test": "MCH",
+        "value": 31.0,
+        "unit": "pg",
+        "flag": "abnormal"
+      },
+      {
+        "test": "MCV",
+        "value": 96.0,
+        "unit": "fL",
+        "flag": "normal"
+      },
+      {
+        "test": "Phosphate",
+        "value": 3.1,
+        "unit": "mg/dL",
+        "flag": "normal"
+      }
+    ],
+    "medications": [
+      "5% Dextrose",
+      "Acetaminophen",
+      "Docusate Sodium",
+      "Glucose Gel",
+      "Lactated Ringers",
+      "Senna",
+      "Sodium Chloride 0.9%"
+    ]
+  },
+  {
+    "gender": "M",
+    "age": 68,
+    "race": "WHITE",
+    "insurance": "Other",
+    "language": "ENGLISH",
+    "marital_status": "MARRIED",
+    "admission_type": "EW EMER.",
+    "admission_location": "EMERGENCY ROOM",
+    "discharge_location": "HOME",
+    "los_days": 4.6,
+    "died_in_hospital": 0,
+    "icu": {
+      "first_careunit": "Medical Intensive Care Unit (MICU)",
+      "last_careunit": "Medical Intensive Care Unit (MICU)",
+      "icu_los_days": 0.6
+    },
+    "num_diagnoses": 17,
+    "num_procedures": 0,
+    "num_medications": 35,
+    "diagnoses": [
+      {
+        "icd_code": "4829",
+        "icd_version": 9,
+        "title": "Other pneumonia"
+      },
+      {
+        "icd_code": "3483",
+        "icd_version": 9,
+        "title": "Unspecified pleural effusion"
+      },
+      {
+        "icd_code": "42731",
+        "icd_version": 9,
+        "title": "Acute on chronic systolic heart failure"
+      },
+      {
+        "icd_code": "4280",
+        "icd_version": 9,
+        "title": "Congestive heart failure, unspecified"
+      },
+      {
+        "icd_code": "2767",
+        "icd_version": 9,
+        "title": "Pure hypercholesterolemia"
+      }
+    ],
+    "procedures": [],
+    "labs": [
+      {
+        "test": "Sodium",
+        "value": 141.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Creatinine",
+        "value": 0.9,
+        "unit": "mg/dL",
+        "flag": "normal"
+      },
+      {
+        "test": "Platelet Count",
+        "value": 238.0,
+        "unit": "K/uL",
+        "flag": "normal"
+      },
+      {
+        "test": "Glucose",
+        "value": 120.0,
+        "unit": "mg/dL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Anion Gap",
+        "value": 12.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "RDW",
+        "value": 14.3,
+        "unit": "%",
+        "flag": "normal"
+      },
+      {
+        "test": "MCH",
+        "value": 30.0,
+        "unit": "pg",
+        "flag": "normal"
+      },
+      {
+        "test": "MCV",
+        "value": 94.0,
+        "unit": "fL",
+        "flag": "normal"
+      }
+    ],
+    "medications": [
+      "Acetaminophen",
+      "Dextrose 50%",
+      "Heparin Flush (10 units/ml)",
+      "Lisinopril",
+      "Senna",
+      "Vancomycin"
+    ]
+  },
+  {
+    "gender": "M",
+    "age": 52,
+    "race": "WHITE",
+    "insurance": "Other",
+    "language": "ENGLISH",
+    "marital_status": "MARRIED",
+    "admission_type": "EW EMER.",
+    "admission_location": "EMERGENCY ROOM",
+    "discharge_location": "HOME HEALTH CARE",
+    "los_days": 7.1,
+    "died_in_hospital": 0,
+    "icu": {
+      "first_careunit": "Cardiac Vascular Intensive Care Unit (CVICU)",
+      "last_careunit": "Cardiac Vascular Intensive Care Unit (CVICU)",
+      "icu_los_days": 2.4
+    },
+    "num_diagnoses": 14,
+    "num_procedures": 1,
+    "num_medications": 29,
+    "diagnoses": [
+      {
+        "icd_code": "I25110",
+        "icd_version": 10,
+        "title": "Atherosclerotic heart disease of native coronary artery with unstable angina pectoris"
+      },
+      {
+        "icd_code": "I25100",
+        "icd_version": 10,
+        "title": "Atherosclerotic heart disease of native coronary artery without angina pectoris"
+      },
+      {
+        "icd_code": "N179",
+        "icd_version": 10,
+        "title": "Acute kidney failure with tubular necrosis"
+      },
+      {
+        "icd_code": "J9601",
+        "icd_version": 10,
+        "title": "Acute respiratory failure with hypoxia"
+      },
+      {
+        "icd_code": "R570",
+        "icd_version": 10,
+        "title": "Poisoning by other substances, unspecified"
+      }
+    ],
+    "procedures": [
+      {
+        "icd_code": "03RV3DZ",
+        "icd_version": 10,
+        "title": "Percutaneous Coronary Angioplasty, Single Measure, Two or More Vessels, Diagnostic"
+      }
+    ],
+    "labs": [
+      {
+        "test": "Creatinine",
+        "value": 1.6,
+        "unit": "mg/dL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Chloride",
+        "value": 108.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Urea Nitrogen",
+        "value": 15.0,
+        "unit": "mg/dL",
+        "flag": "normal"
+      },
+      {
+        "test": "Hematocrit",
+        "value": 25.0,
+        "unit": "%",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Anion Gap",
+        "value": 14.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Bicarbonate",
+        "value": 22.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Hemoglobin",
+        "value": 9.3,
+        "unit": "g/dL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "INR(PT)",
+        "value": 1.4,
+        "unit": null,
+        "flag": "abnormal"
+      }
+    ],
+    "medications": [
+      "Acetaminophen",
+      "Aspirin",
+      "Dextrose 50%",
+      "Glucagon",
+      "HydrALAZINE",
+      "Senna"
+    ]
+  },
+  {
+    "gender": "F",
+    "age": 56,
+    "race": "WHITE",
+    "insurance": "Other",
+    "language": "ENGLISH",
+    "marital_status": "SINGLE",
+    "admission_type": "EW EMER.",
+    "admission_location": "EMERGENCY ROOM",
+    "discharge_location": "HOME",
+    "los_days": 6.4,
+    "died_in_hospital": 0,
+    "icu": null,
+    "num_diagnoses": 24,
+    "num_procedures": 4,
+    "num_medications": 36,
+    "diagnoses": [
+      {
+        "icd_code": "04131",
+        "icd_version": 9,
+        "title": "Intestinal infection due to Clostridium difficile"
+      },
+      {
+        "icd_code": "5849",
+        "icd_version": 9,
+        "title": "Acute kidney failure, unspecified"
+      },
+      {
+        "icd_code": "5779",
+        "icd_version": 9,
+        "title": "Nontoxic encephalopathy"
+      },
+      {
+        "icd_code": "5771",
+        "icd_version": 9,
+        "title": "Encephalopathy, unspecified"
+      },
+      {
+        "icd_code": "2762",
+        "icd_version": 9,
+        "title": "Altered mental status, unspecified"
+      },
+      {
+        "icd_code": "0384",
+        "icd_version": 9,
+        "title": "Pneumonia, unspecified organism"
+      }
+    ],
+    "procedures": [
+      {
+        "icd_code": "3895",
+        "icd_version": 9,
+        "title": "Other intestinal catheterization"
+      }
+    ],
+    "labs": [
+      {
+        "test": "Creatinine",
+        "value": 1.4,
+        "unit": "mg/dL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Chloride",
+        "value": 101.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Potassium",
+        "value": 3.7,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Urea Nitrogen",
+        "value": 16.0,
+        "unit": "mg/dL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Anion Gap",
+        "value": 16.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Hemoglobin",
+        "value": 11.4,
+        "unit": "g/dL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "MCV",
+        "value": 93.0,
+        "unit": "fL",
+        "flag": "normal"
+      },
+      {
+        "test": "Red Blood Cells",
+        "value": 3.77,
+        "unit": "m/uL",
+        "flag": "abnormal"
+      }
+    ],
+    "medications": [
+      "5% Dextrose",
+      "Albuterol 0.083% Neb",
+      "Docusate Sodium",
+      "Influenza Vaccine Quadrivalent",
+      "Sodium Chloride 0.9%  Flush"
+    ]
+  },
+  {
+    "gender": "M",
+    "age": 50,
+    "race": "WHITE",
+    "insurance": "Other",
+    "language": "ENGLISH",
+    "marital_status": "SINGLE",
+    "admission_type": "EW EMER.",
+    "admission_location": "EMERGENCY ROOM",
+    "discharge_location": "HOME",
+    "los_days": 4.9,
+    "died_in_hospital": 0,
+    "icu": {
+      "first_careunit": "Medical Intensive Care Unit (MICU)",
+      "last_careunit": "Medical Intensive Care Unit (MICU)",
+      "icu_los_days": 2.0
+    },
+    "num_diagnoses": 12,
+    "num_procedures": 1,
+    "num_medications": 22,
+    "diagnoses": [
+      {
+        "icd_code": "51881",
+        "icd_version": 9,
+        "title": "Acute myeloid leukemia, without mention of having achieved remission"
+      },
+      {
+        "icd_code": "5849",
+        "icd_version": 9,
+        "title": "Acute kidney failure, unspecified"
+      },
+      {
+        "icd_code": "V458",
+        "icd_version": 9,
+        "title": "Multiple myeloma, unspecified"
+      },
+      {
+        "icd_code": "2762",
+        "icd_version": 9,
+        "title": "Anemia, unspecified"
+      },
+      {
+        "icd_code": "2885",
+        "icd_version": 9,
+        "title": "Other hemoptysis"
+      }
+    ],
+    "procedures": [
+      {
+        "icd_code": "9661",
+        "icd_version": 9,
+        "title": "Central venous catheter placement with guidance"
+      }
+    ],
+    "labs": [
+      {
+        "test": "Sodium",
+        "value": 139.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "Chloride",
+        "value": 105.0,
+        "unit": "mEq/L",
+        "flag": "normal"
+      },
+      {
+        "test": "MCHC",
+        "value": 33.3,
+        "unit": "%",
+        "flag": "abnormal"
+      },
+      {
+        "test": "MCH",
+        "value": 30.0,
+        "unit": "pg",
+        "flag": "normal"
+      },
+      {
+        "test": "Red Blood Cells",
+        "value": 3.56,
+        "unit": "m/uL",
+        "flag": "abnormal"
+      },
+      {
+        "test": "Magnesium",
+        "value": 1.7,
+        "unit": "mg/dL",
+        "flag": "normal"
+      },
+      {
+        "test": "PT",
+        "value": 15.2,
+        "unit": "sec",
+        "flag": "normal"
+      },
+      {
+        "test": "Bilirubin, Total",
+        "value": 1.0,
+        "unit": "mg/dL",
+        "flag": "normal"
+      }
+    ],
+    "medications": [
+      "Acetaminophen",
+      "Dextrose 50%",
+      "D5 1/2NS",
+      "Heparin",
+      "Neutra-Phos",
+      "Sodium Chloride 0.9%  Flush"
+    ]
+  }
+]
